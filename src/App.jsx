@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>Welcome to React-Redux</h1>
       <AddCusotmer />
-      {/* <ViewCustomer /> */}
+      <ViewCustomer />
     </>
   );
 }
